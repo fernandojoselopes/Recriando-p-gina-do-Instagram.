@@ -1,4 +1,4 @@
-# Projeto: Recriando página do Instagram. :happy:
+# Projeto: Recriando página do Instagram. :smile:
 
 
 
